@@ -13,4 +13,4 @@
 
 Free, open-source interactive textbooks with visualizations, exercises, and progress tracking. 89 courses planned across Math, CS, Physics & Chemistry.
 
-**[Browse the full catalog](https://hengzhe-science-classroom.github.io/hub/)**
+**[Visit the website](https://hengzhe-science-classroom.github.io/hub/)**
