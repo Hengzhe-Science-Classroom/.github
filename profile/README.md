@@ -11,9 +11,10 @@
 | [Advanced Linear Algebra (Roman GTM 135)](https://github.com/Hengzhe-Science-Classroom/HZ-advanced-linear-algebra) | Tier 4 · Graduate | [Open the App](https://hengzhe-science-classroom.github.io/HZ-advanced-linear-algebra/) |
 | [Algebraic Topology (Hatcher)](https://github.com/Hengzhe-Science-Classroom/HZ-algebraic-topology) | Tier 5 · Research Frontier | [Open the App](https://hengzhe-science-classroom.github.io/HZ-algebraic-topology/) |
 | [High-Dimensional Statistics (Wainwright / Vershynin)](https://github.com/Hengzhe-Science-Classroom/HZ-high-dimensional-statistics) | Tier 5 · Research Frontier | [Open the App](https://hengzhe-science-classroom.github.io/HZ-high-dimensional-statistics/) |
+| [Forces & Motion Intuition (Hewitt / Perelman)](https://github.com/Hengzhe-Science-Classroom/HZ-forces-motion-intuition) | Tier 1 · Foundation | [Open the App](https://hengzhe-science-classroom.github.io/HZ-forces-motion-intuition/) |
 
 ### About
 
-Free, open-source interactive textbooks with visualizations, exercises, and progress tracking. 87 more courses planned across Math, CS, Physics & Chemistry.
+Free, open-source interactive textbooks with visualizations, exercises, and progress tracking. 86 more courses planned across Math, CS, Physics & Chemistry.
 
 **[Visit the website](https://hengzhe-science-classroom.github.io/hub/)**
